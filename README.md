@@ -38,3 +38,16 @@ Include:
 
 ## 📌 Author
 Aniss Shaik
+
+
+
+## 📸 Project Screenshots
+
+### 🔹 Accuracy Report
+![Accuracy](screenshots/accuracy_report.png)
+
+### 🔹 Pairplot Visualization
+![Pairplot](screenshots/pairplot.png)
+
+### 🔹 Live Prediction Output
+![Prediction](screenshots/prediction_output.png)
